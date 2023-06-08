@@ -27,7 +27,7 @@ export default async function AllBurgersPage() {
           </div>
           <div>
             <h3>{name}</h3>
-            <p>{desc}</p>
+            {/* <p>{desc}</p> */}
           </div>
         </Link>
       ))}
